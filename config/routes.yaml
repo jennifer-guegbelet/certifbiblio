@@ -1,0 +1,3 @@
+book:
+    path: /book
+    controller: App\Controller\BookController::index
